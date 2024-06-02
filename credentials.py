@@ -1,3 +1,3 @@
 from quantuminspire.credentials import save_account
-MY_API_TOKEN = 'mojtoken'
+MY_API_TOKEN = 'd9cd60a032e49fd70b830f58b3b04885018ba8a6'
 save_account(MY_API_TOKEN)
